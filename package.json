@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-remark-sequence",
+  "version": "0.0.1",
+  "description": "Make nice graphs in your markdown files in gatsbyjs, using flowchart",
+  "author": "Donghua Liu <liudonghua123@gmail.com> (http://liudonghua.com)",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^1.1.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "graph",
+    "js-sequence-diagrams",
+    "remark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liudonghua123/gatsby-remark-sequence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liudonghua123/gatsby-remark-sequence/issues"
+  },
+  "homepage": "https://github.com/liudonghua123/gatsby-remark-sequence#readme"
+}
