@@ -1,4 +1,4 @@
-# gatsby-remark-graph
+# gatsby-remark-sequence
 
 Make nice graphs in your markdown files in gatsbyjs, using [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/).
 
